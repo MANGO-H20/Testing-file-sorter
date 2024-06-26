@@ -1,4 +1,4 @@
-# File sorter 
+# File sorter For Obsidian
 Using this pulgin you can move your files to a folder with the same name as the tag 
 
 Rules 
